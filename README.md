@@ -1,5 +1,5 @@
 # 💫 Sobre min:
-🔭 Atualmente estou trabalhando como desenvolvedor FullStack Ruby on Rails<br>🌱 Estou aprendendo a trabalhar com inteligência artificial na area da saude<br>
+🔭 Atualmente estou trabalhando como desenvolvedor FullStack <br>🌱 Estou aprendendo a trabalhar com inteligência artificial na area da educação<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedroo0974) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-lopes-de-oliveira) 
