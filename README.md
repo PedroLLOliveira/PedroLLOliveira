@@ -1,5 +1,11 @@
 # 💫 Sobre min:
-🔭 Atualmente estou trabalhando como desenvolvedor FullStack <br>🌱 Estou aprendendo a trabalhar com inteligência artificial na area da educação<br>
+🔭 Atualmente estou trabalhando como desenvolvedor FullStack com foco em integração de inteligencia de artificial em sistemas do ramo educacional<br>🌱 Estou cursando uma pós-graduação em Inteligencia Artificial e Machine learn na PUC-Minas<br>
+
+## 🚀 O que eu construo:
+- Integração com modelos de inteligencia artificial para automações de processos, chats bot, etc.
+- Criação de APIs web robustas e escalaveis.
+- Provisionamento e manutenção de ambientes para desenvolvimento, homologação e produção.
+- Arquitetura de projetos garantindo robustez.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedroo0974) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-lopes-de-oliveira) 
@@ -10,15 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=PedroLLOliveira&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PedroLLOliveira&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLLOliveira&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PedroLLOliveira&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PedroLLOliveira&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PedroLLOliveira&icon=0&color=1)](https://visitcount.itsvg.in)
