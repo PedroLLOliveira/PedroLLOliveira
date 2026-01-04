@@ -1,48 +1,57 @@
-# Pedro Lucas Lopes de Oliveira
+<div align="center">
+
+# 👋 Olá, eu sou o Pedro Lucas
+
 **Desenvolvedor Full Stack (Pleno) | Python (Django/DRF) • Vue.js • PostgreSQL | IA aplicada (transcrição, NLP e automação de fluxos)**
 
-Atuo com desenvolvimento **end-to-end** (backend, integrações, banco e UI) em produtos B2B, com foco em **qualidade, performance (p95), confiabilidade e manutenibilidade**.  
-Hoje trabalho como **Full Stack** com ênfase em **integração de IA** para automação de processos em sistemas do **ramo educacional**.
+🔭 Atualmente atuo como **desenvolvedor Full Stack** com foco em **integração de Inteligência Artificial** em sistemas do **ramo educacional**.
 
----
-
-## O que eu faço (na prática)
-- **Integração de IA aplicada a produto**: automações de processos, chatbots e fluxos orientados a texto/voz (transcrição + estruturação).
-- **APIs robustas e escaláveis**: design de endpoints, regras de negócio, autenticação/autorização e integração entre serviços.
-- **Dados e performance**: modelagem, otimização de queries e acompanhamento de latência por percentis (p95) em rotas críticas.
-- **Ambientes e deploy**: provisionamento e manutenção de ambientes de dev/homologação/produção (Docker, Nginx, CI/CD).
-- **Arquitetura e manutenção**: evolução incremental, redução de retrabalho e melhoria contínua da base.
-
----
-
-## Experiência recente
-- **Full Stack (Rubeus)**: desenvolvimento e evolução de funcionalidades em produto B2B educacional, com iniciativas de **IA aplicada** e integrações.
-- **Web Developer (Splitcare)**: manutenção de produto em **Ruby on Rails** e entrega de fluxos de **transcrição em tempo real** + **estruturação automática de anamnese**.
-- **Full Stack (OrolGlass)**: **Django + PostgreSQL + Vue.js/Tailwind**, incluindo **multi-tenant** e uma **engine de fórmulas** para orçamentos.
-
----
-
-## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-lucas-lopes-de-oliveira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/pedroo0974)
+![Profile Views](https://komarev.com/ghpvc/?username=PedroLLOliveira&style=flat&color=0A66C2)
+
+</div>
 
 ---
 
-## Stack principal
+## 🚀 O que eu construo
+- 🤖 **IA aplicada a produto**: automações de processos, chatbots e fluxos baseados em texto/voz (transcrição + estruturação).
+- 🧩 **APIs robustas e escaláveis**: design de endpoints, regras de negócio, autenticação/autorização e integrações entre serviços.
+- 🗄️ **Dados & performance**: modelagem, otimização de queries e acompanhamento de latência por percentis (**p95**) em rotas críticas.
+- 🧰 **Ambientes & deploy**: provisionamento/manutenção de dev/homologação/produção (Docker, Nginx, CI/CD).
+- 🏗️ **Arquitetura & manutenção**: evolução incremental, redução de retrabalho e melhoria contínua da base.
+
+---
+
+## 🧠 Como eu trabalho
+- ✅ **Ownership end-to-end**: do entendimento do problema até entrega em produção.
+- 🔍 **Decisão técnica com contexto**: impacto no produto, custo e manutenção.
+- 📏 **Métricas e qualidade**: foco em estabilidade, latência (p95) e consistência do resultado.
+- 🤝 **Colaboração**: alinhamento com time e melhoria contínua de padrões.
+
+---
+
+## 🧭 Experiência recente
+- 🎓 **Ramo educacional (CRM/Produto B2B)**: desenvolvimento e evolução de funcionalidades e integrações, incluindo iniciativas com IA aplicada.
+- 🩺 **Saúde (Healthtech)**: manutenção de produto em produção (Ruby on Rails) e fluxos de **transcrição em tempo real** + **estruturação automática de anamnese**.
+- 🏭 **Gestão/ERP**: **Django + PostgreSQL + Vue/Tailwind**, incluindo correções para **multi-tenant** e uma **engine de fórmulas** para orçamentos.
+
+---
+
+## 🧰 Stack principal
 **Backend:** Python (Django/DRF), Node.js, Ruby on Rails  
-**Frontend:** Vue.js, Tailwind CSS, React (quando necessário)  
+**Frontend:** Vue.js, Tailwind CSS (e React quando necessário)  
 **Dados:** PostgreSQL, MySQL, SQL  
 **Infra/Entrega:** Docker, Nginx, GitLab CI, GitHub Actions  
 **Ferramentas:** Git, Postman, Notion
 
 ---
 
-## Tech Stack (badges)
+## 💻 Tech Stack (badges)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
 ![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -55,7 +64,7 @@ Hoje trabalho como **Full Stack** com ênfase em **integração de IA** para aut
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 <details>
-  <summary><strong>Outras tecnologias que já usei</strong></summary>
+  <summary><strong>➕ Outras tecnologias que já usei</strong></summary>
 
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -71,14 +80,22 @@ Hoje trabalho como **Full Stack** com ênfase em **integração de IA** para aut
 
 ---
 
-## Destaques do GitHub
-![](https://github-profile-trophy.vercel.app/?username=PedroLLOliveira&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Troféus
 
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=PedroLLOliveira&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedroLLOliveira&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLLOliveira&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=PedroLLOliveira&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=10)
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=PedroLLOliveira&theme=shadow_blue&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=PedroLLOliveira&theme=shadow_blue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLLOliveira&theme=shadow_blue&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 👀 Visitas
 [![](https://visitcount.itsvg.in/api?id=PedroLLOliveira&icon=0&color=1)](https://visitcount.itsvg.in)
