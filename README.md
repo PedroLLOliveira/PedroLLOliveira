@@ -90,7 +90,7 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=PedroLLOliveira&theme=shadow_blue&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=PedroLLOliveira&theme=shadow_blue&hide_border=true)
+![](https://streak-stats.demolab.com?user=PedroLLOliveira&theme=shadow-blue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLLOliveira&theme=shadow_blue&hide_border=true&layout=compact)
 
 </div>
