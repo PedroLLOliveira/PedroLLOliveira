@@ -79,23 +79,3 @@
 </details>
 
 ---
-
-## 🏆 Troféus
-
-![](https://github-profile-trophy.vercel.app/?username=PedroLLOliveira&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=10)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=PedroLLOliveira&theme=shadow_blue&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com?user=PedroLLOliveira&theme=shadow-blue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLLOliveira&theme=shadow_blue&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 👀 Visitas
-[![](https://visitcount.itsvg.in/api?id=PedroLLOliveira&icon=0&color=1)](https://visitcount.itsvg.in)
